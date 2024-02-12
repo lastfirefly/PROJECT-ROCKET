@@ -4,7 +4,6 @@ pandas              1.5.3
 seaborn             0.13.1
 session_info        1.0.0
 sklearn             1.2.2
-unidecode           NA
 -----
 
 Click to view modules imported as dependencies
